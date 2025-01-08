@@ -58,17 +58,6 @@ By leveraging cutting-edge technologies, PersonaGen helps organizations make sma
 
 ---
 
-## 🔮 Future Enhancements  
-- 📈 Add support for more customer attributes to improve predictions.  
-- 🤝 Integrate with third-party marketing platforms.  
-- 🌍 Multilingual support for strategy generation.  
-
----
-
-## 🤝 Contributing  
-We welcome contributions to improve **PersonaGen**! Feel free to fork the repository and open a pull request with your improvements.  
-
----
-
-## 📜 License  
-This project is licensed under the MIT License.  
+## 🤝 Credits
+The model.pkl, df_segment.csv, ecommerce-cluster.csv, df_customer.csv and project architechture used has been taken from ahmadluay9 github repo Generative-AI-for-Personalized-E-commerce-Customer-Segmentation. 
+ 
