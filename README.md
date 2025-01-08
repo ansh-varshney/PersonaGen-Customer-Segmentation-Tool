@@ -6,9 +6,10 @@
 ---
 
 ## 🌟 Overview  
-**PersonaGen** is a powerful tool for businesses to:  
-- Predict customer segments using behavioral data.  
-- Generate AI-powered strategies for personalized engagement.  
+PersonaGen is a powerful tool for businesses to:  
+
+- **Predict customer segments** using behavioral data.  
+- **Generate AI-powered strategies** for personalized engagement.  
 
 By leveraging cutting-edge technologies, PersonaGen helps organizations make smarter, data-driven decisions to enhance customer experience and drive growth.  
 
@@ -28,6 +29,8 @@ By leveraging cutting-edge technologies, PersonaGen helps organizations make sma
 - **LangChain 🔗**: AI-driven strategy generation  
 - **Pandas 🐼**: Data manipulation and preparation  
 - **Custom ML Model 🎯**: For customer segmentation  
+- **K-Means Clustering 🔵**: Used for customer segmentation by identifying distinct groups of customers based on behavioral data.  
+- **Generative AI 🤖**: For crafting personalized engagement strategies using contextual inputs.  
 
 ---
 
@@ -58,6 +61,13 @@ By leveraging cutting-edge technologies, PersonaGen helps organizations make sma
 
 ---
 
-## 🤝 Credits
-The model.pkl, df_segment.csv, ecommerce-cluster.csv, df_customer.csv and project architechture used has been taken from ahmadluay9 github repo Generative-AI-for-Personalized-E-commerce-Customer-Segmentation. 
- 
+## 📊 Machine Learning Techniques  
+- **K-Means Clustering**: Employed for customer segmentation by grouping similar customers based on input features like order count, average spend, and return ratio.  
+- **Custom ML Model**: Built and trained to predict customer segments effectively.  
+- **Generative AI**: Utilized for generating innovative and tailored strategies, enhancing engagement potential.  
+
+---
+
+## 🤝 Credits  
+The `model.pkl`, `df_segment.csv`, `ecommerce-cluster.csv`, `df_customer.csv`, and project architecture used have been adapted from the [ahmadluay9 GitHub repository: Generative-AI-for-Personalized-E-commerce-Customer-Segmentation](https://github.com/ahmadluay9/Generative-AI-for-Personalized-E-commerce-Customer-Segmentation).  
+
