@@ -24,7 +24,7 @@ By utilizing machine learning, clustering techniques, and generative AI, Persona
 
 ---
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 - **Python **: Backend development  
 - **FastAPI **: High-performance API framework for building RESTful services  
 - **LangChain **: Facilitates natural language understanding and AI-driven workflows  
